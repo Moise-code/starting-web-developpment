@@ -1,0 +1,52 @@
+/*reset css*/
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, em, img, strong, b, i, ul, li,
+article, footer, header, hgroup, menu, nav, section{margin:0px; padding:0px; font-size: 100%;}
+
+li{display: inline; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; -o-box-sizing:border-box;
+    -ms-box-sizing:border-box; box-sizing:border-box;
+}
+
+li a,a{
+    text-decoration:none;
+}
+
+/*Tim B L*/
+#lee{
+    width: 1200px;
+    height: auto;
+    background-color: #ebebeb;
+    margin: auto;
+    padding-top: 25px;
+}
+
+/*Section fondateur*/
+#lee #fondateur{
+    width: 500px;
+    height: 300px;
+    background-color: #fff;
+    margin-left: 350px;
+    border-radius: 5px;
+    box-shadow: 1px 1px lightgray;
+}
+
+/*Section mrjs*/
+#lee #mrjs{
+    width: 500px;
+    height: 100px;
+    margin-top: 25px;
+    background-color: #fff;
+    margin-left: 350px;
+    border-radius: 5px;
+    box-shadow: 1px 1px lightgray;
+}
+
+/*Section scripteurva*/
+#lee #scripteurva{
+    width: 500px;
+    height: 700px;
+    margin-top: 25px;
+    background-color: #fff;
+    margin-left: 350px;
+    border-radius: 5px;
+    box-shadow: 1px 1px lightgray;
+}
